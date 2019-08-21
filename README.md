@@ -1,2 +1,2 @@
 # blockchainVoting
-Voting through Blockchain
+Regenerative Voting System using Azure Blockchain and Raspberry Pi
