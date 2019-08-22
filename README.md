@@ -11,9 +11,27 @@ Regenerative Voting System using Azure Blockchain and Raspberry
     1.ElectionHead
     2.ZoneRepresentative
     3.Voter
- 
+  <br>
+  <br>
+  <br>
   The Election Head is the one who adds the candidates and the Voters in the Blockchain Application. He is also responsible for the declaration of results.
-  
+  <br>
+  <br>
+  <br>
+  <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/election%20head.jpg" align="left" height="400" width="1000" ></a>
+  <br>
+  <br>
+  <br>
   The Zone Representative will take care of Initiating the Election on the Election Day.
-  
+  <br>
+  <br>
+  <br>
+  <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/zone%20representative.jpg" align="left" height="400" width="1000" ></a>
+  <br>
+  <br>
+  <br>
   The voter signs into the Blockchain Application and votes for the candidate.
+  <br>
+  <br>
+  <br>
+  <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/voter.jpg" align="left" height="400" width="1000" ></a>
