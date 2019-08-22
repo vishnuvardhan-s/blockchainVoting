@@ -13,7 +13,6 @@ Regenerative Voting System using Azure Blockchain and Raspberry
     3.Voter
   <br>
   <br>
-  <br>
   The Election Head is the one who adds the candidates and the Voters in the Blockchain Application. He is also responsible for the declaration of results.
   <br>
   <br>
