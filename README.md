@@ -9,36 +9,36 @@
   Microsoft SQL management studio is used for the Database.  After verification, the User enters into the Blockchain Application that is created using his mail id and the password that only he knows.
 
 ## Roles
-  There are three roles in our Blockchain Application. <br>
-    1.ElectionHead<br>
-    2.ZoneRepresentative<br>
-    3.Voter<br>
-  <br>
-  <br>
+  There are three roles in our Blockchain Application. <br />
+    1.ElectionHead<br />
+    2.ZoneRepresentative<br />
+    3.Voter<br />
+  <br />
+  <br />
   The Election Head is the one who adds the candidates and the Voters in the Blockchain Application. He is also responsible for the declaration of results.
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/election%20head.jpg" align="left" height="400" width="1000" ></a>
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   The Zone Representative will take care of Initiating the Election on the Election Day.
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/zone%20representative.jpg" align="left" height="400" width="1000" ></a>
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   The voter signs into the Blockchain Application and votes for the candidate.
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/voter.jpg" align="left" height="400" width="1000" ></a>
-  <br>
-  <br>
-  <br>
+  <br />
+  <br />
+  <br />
   ## Blockchain Application
   The blockchainVoting.json and blockchainVoting.sol files are deployed in the Azure Blockchain Workbench.  The candidates and voters are added in the election zone by the ElectionHead.  The ZoneRepresentative initiates the Election. After verifying the AADHAR number using the RFID Card, the voter is permitted to vote in the Azure Blockchain.  The Election Head finally declares the election and the contract is complete.
   ## Advantages
