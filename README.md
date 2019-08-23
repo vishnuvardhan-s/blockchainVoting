@@ -37,6 +37,10 @@
   <br>
   <a href="url"><img src="https://github.com/coderrag/blockchainVoting/blob/master/voter.jpg" align="left" height="400" width="1000" ></a>
   <br>
+  <br>
+  <br>
   ## Blockchain Application
-  The blockchainVoting.json and blockchainVoting.sol files are deployed in the Azure Blockchain Workbench.  The candidates and voters are added in the election zone by the ElectionHead.  The ZoneRepresentative initiates the Election.**The main disadvantage of using only the Azure Blockchain for voting is that, if I have the username and password of my friend, relative or anyone, I can vote for them without their knowledge.  Our system provides an extra security of verifying the voter before he votes using the RFID Card.**  
-  After verifying the AADHAR number using the RFID Card, the voter is permitted to vote in the Azure Blockchain.  The Election Head finally declares the election and the contract is complete.
+  The blockchainVoting.json and blockchainVoting.sol files are deployed in the Azure Blockchain Workbench.  The candidates and voters are added in the election zone by the ElectionHead.  The ZoneRepresentative initiates the Election. After verifying the AADHAR number using the RFID Card, the voter is permitted to vote in the Azure Blockchain.  The Election Head finally declares the election and the contract is complete.
+  ## Advantages
+  **The main disadvantage of using only the Azure Blockchain for voting is that, if I have the username and password of my friend, relative or anyone, I can vote for them without their knowledge.  Our system provides an extra security of verifying the voter before he votes using the RFID Card.**  
+  
