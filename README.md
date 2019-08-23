@@ -9,10 +9,10 @@
   Microsoft SQL management studio is used for the Database.  After verification, the User enters into the Blockchain Application that is created using his mail id and the password that only he knows.
 
 ## Roles
-  There are three roles in our Blockchain Application. 
-    1.ElectionHead
-    2.ZoneRepresentative
-    3.Voter
+  There are three roles in our Blockchain Application. <br>
+    1.ElectionHead<br>
+    2.ZoneRepresentative<br>
+    3.Voter<br>
   <br>
   <br>
   The Election Head is the one who adds the candidates and the Voters in the Blockchain Application. He is also responsible for the declaration of results.
